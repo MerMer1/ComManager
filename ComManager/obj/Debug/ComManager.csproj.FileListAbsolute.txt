@@ -1,0 +1,6 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\bin\Debug\ComManager.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\bin\Debug\ComManager.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\bin\Debug\ComManager.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\obj\Debug\ComManager.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\obj\Debug\ComManager.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\ComManager\ComManager\obj\Debug\ComManager.csprojResolveAssemblyReference.cache
